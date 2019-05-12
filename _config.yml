@@ -1,0 +1,43 @@
+# Site settings
+title: 'Healthify Kids'
+description: 'Мобильное приложение на базе искусственного интеллекта для скрининга и тренировки здоровья детей.'
+url: 'https://healthifykids.com/'
+baseurl: 
+google_analytics: 'UA-105772480-2'
+disqus_shortname: 'healthifykids'
+
+author:
+  name: 'Healthify Kids'
+  email: rahimtoy@gmail.com
+  twitter_username: healthifykids
+  facebook_username: healthifykids
+  github_username: healthifykids
+  linkedin_username: healthifykids
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
