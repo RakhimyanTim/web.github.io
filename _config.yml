@@ -1,18 +1,18 @@
 # Site settings
 title: 'Создание мобильных приложенй iOS/ Android'
-description: '2 нативных мобильных приложения на лучших условиях: <br>  Если найдется конкурирующее предложение, я дам условия лучше.'
-url: 'https://healthifykids.com/'
+description: '2 нативных мобильных приложения на лучших условиях: <br>- Если найдется конкурирующее предложение, я дам условия лучше.'
+url: 'https://rakhimyan.ru/'
 baseurl: 
 google_analytics: 'UA-105772480-2'
-disqus_shortname: 'healthifykids'
+disqus_shortname: 'rakhimyan'
 
 author:
-  name: 'Healthify Kids'
+  name: 'Rakhimyan'
   email: rahimtoy@gmail.com
-  twitter_username: healthifykids
-  facebook_username: healthifykids
-  github_username: healthifykids
-  linkedin_username: healthifykids
+  twitter_username: rakhimyan
+  facebook_username: rakhimyan
+  github_username: RakhimyanTim
+  linkedin_username: rakhimyan
 
 defaults:
   -
