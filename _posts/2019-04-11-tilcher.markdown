@@ -1,0 +1,20 @@
+
+---
+title:  "Tilcher"
+date:   2019-05-11 15:04:23
+categories: [Опыт]
+tags: [Портфолио]
+---
+
+`Тилчер` - рекомендательный сервис по подборе одежды. 
+
+Приложение `Тилчер` помогает: 1) получать новые луки каждый день, 2) отправляться на бесплатный шопинг со тилистом, 3)  находить луки из разных магазинов. 
+
+### Скрины
+
+<img src="/images/blog/2019/tilcher/1.png" height="300em" />
+<img src="/images/blog/2019/tilcher/2.png" height="300em" />
+<img src="/images/blog/2019/tilcher/3.png" height="300em" />
+<img src="/images/blog/2019/tilcher/4.png" height="300em" />
+<img src="/images/blog/2019/tilcher/5.png" height="300em" />
+
