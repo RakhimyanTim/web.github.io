@@ -42,4 +42,4 @@ tags: [Портфолио]
 * Оптимизирован для iOS и Android
 
 
-Сделан с ❤️ на <a href="https://flutter.dev">Dart/Flutter</a>.
+Сделано с ❤️ на <a href="https://flutter.dev">Flutter</a>.
