@@ -16,7 +16,6 @@ tags: [Портфолио]
 <img src="/images/blog/2019/basket-battle/3.png" height="400em" />
 <img src="/images/blog/2019/basket-battle/4.png" height="400em" />
 <img src="/images/blog/2019/basket-battle/5.png" height="400em" />
-
 <img src="/images/blog/2019/basket-battle/6.png" height="400em" />
 <img src="/images/blog/2019/basket-battle/7.png" height="400em" />
 <img src="/images/blog/2019/basket-battle/8.png" height="400em" />
