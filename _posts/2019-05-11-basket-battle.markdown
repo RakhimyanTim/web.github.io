@@ -11,19 +11,16 @@ tags: [Портфолио]
 
 ### Скрины
 
-<img src="/images/blog/2019/tilcher/1.png" height="400em" />
-<img src="/images/blog/2019/tilcher/2.png" height="400em" />
-<img src="/images/blog/2019/tilcher/3.png" height="400em" />
-<img src="/images/blog/2019/tilcher/4.png" height="400em" />
-<img src="/images/blog/2019/tilcher/5.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/1.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/2.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/3.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/4.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/5.png" height="400em" />
 
+<img src="/images/blog/2019/basket-battle/6.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/7.png" height="400em" />
+<img src="/images/blog/2019/basket-battle/8.png" height="400em" />
 
-### Типы пользователей
-
-* Шопоголик - пользователь, клиент
-* Стилист - драйвер роста, клиент
-* Продавец - представитель магазина, клиент
-* Администратор - представительно стратапа
 
 ### Функционал
 
@@ -34,8 +31,7 @@ tags: [Портфолио]
 * Интеграция с Firebase Firestore
 * Выход из системы
 * Интеграция с Firebase Storage
-* Загрузка фото с библиотеки
-* Кадрирование фото
+* Работа с камерой
 * Интеграция с Google Maps
 * Оптимизирован для iOS и Android
 
