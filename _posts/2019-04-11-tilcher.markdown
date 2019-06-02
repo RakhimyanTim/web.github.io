@@ -9,7 +9,7 @@ tags: [Портфолио]
 
 Приложение `Тилчер` помогает: 1) получать новые луки каждый день, 2) отправляться на бесплатный шопинг со тилистом, 3)  находить луки из разных магазинов. 
 
-<a href='https://play.google.com/store/apps/details?id=com.mszalek.weight_tracker&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="200px"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.mszalek.weight_tracker&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Awailable on the App Store' src='/images/blog/2019/tilcher/appstore.png' width="200em"/></a>
 
 ### Скрины
 
