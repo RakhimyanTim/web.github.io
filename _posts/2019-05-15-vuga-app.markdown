@@ -1,0 +1,22 @@
+---
+title:  "Vuga"
+date:   2019-05-11 15:04:23
+categories: [Опыт]
+tags: [Портфолио]
+---
+
+`Vuga` - агрегатор для автоломбардов. 
+
+С помощью сервиса заемщики находят ломбарды, а ломбарды заемщиков. Пользователи оставляют заявку на займ, с указанием нужной суммы и необходимыми данными для оценки и проверки автомобиля. Вы делаете свое предложение, заемщик просматривает его в своем личном кабинете и, если он выбирает ваши условия, вы заключаете сделку. 
+
+### Скрины (UI)
+
+<img src="/images/blog/2019/vuga/orders.png" height="400em" />
+<img src="/images/blog/2019/vuga/detail.png" height="400em" />
+<img src="/images/blog/2019/vuga/detail2.png" height="400em" />
+<img src="/images/blog/2019/vuga/offers.png" height="400em" />
+<img src="/images/blog/2019/vuga/vin_check.png" height="400em" />
+<img src="/images/blog/2019/vuga/deals.png" height="400em" />
+
+
+Сделано с ❤️ на <a href="https://flutter.dev">Flutter</a>.
